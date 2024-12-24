@@ -1,0 +1,10 @@
+	Ideias
+	
+
+
+
+	*tornar as logos de marcas de vídeo-game
+	clicáveis onde:
+		Ao passar o mouse, uma imagem irá
+		se abrir partindo da logo mostrando
+		consoles e/ou jogos daquela marca.

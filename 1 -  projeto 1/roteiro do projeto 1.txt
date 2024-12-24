@@ -1,0 +1,50 @@
+	projeto 1
+	
+	*fazer um site mostruario (modelo: https://site-gamesshop.vercel.app/?#contact )
+
+
+
+	header
+
+	*fonte diferente
+	*links acima "sobre a loja" e "contato"
+
+
+
+	corpo
+
+	section1:
+		imagem a esquerda
+		sobre a loja a direita
+		com logos de marcas de 
+		jogos logo abaixo (nao
+		clicaveis)
+	section2:
+		titulo destaque da section
+		logo abaixo: Fale conosco
+		e um formulario com Nome,
+		email, telefone, uma msg
+		e um botao de enviar abaixo
+		onde ele apenas ira permitir
+		o envio se o nome, email
+		e campo de msg for preenchido.
+
+		ao lado, campo de "nos acompanhe"
+		com logo do insta, facebook e 
+		youtube (links clicaveis)
+
+		a direita, "Venha ate nos"
+		com o endereco descrito com
+		rua, numero, setor, cidade e estado
+		(abreviado)
+
+
+
+	footer
+	
+	simbolo de marca, nome da marca
+	"Todos os direitos reservados - 2022"
+
+
+
+	ao final, mandar para o githup onde ele possa ser acessado.
