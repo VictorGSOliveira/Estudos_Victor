@@ -1,4 +1,0 @@
-Fazer o site antigo das aulas da ebac antes da estilização da aula "Trabalhe com cores"
-
-Depois, colocar a estilização para ficar similar a página do professor.
-    !: Fazer esta atividade com o mínimo de consultas
